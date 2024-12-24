@@ -10,11 +10,11 @@
     ],
     "env": {
         "SESSION_ID": {
-            "description": "Get using Scan QR Code or Using Pair code.",
+            "description": "QUEENELISA;;;==wcJJnNEp3QNhERIl0X4JXYsp0NSpkSzgTZIdmZyADNYVFT0BjY1VGT5tUYjo0ZDdkbWZEepwd=433425834329",
             "required": true
         },
         "MONGODB_URL": {
-            "description": "Put Mongodb Database Url for Run Bot",
+            "description": "mongodb+srv://Faizan:faizantechz@cluster0.6bynwff.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
             "required": true
         }
     },
