@@ -10,11 +10,11 @@
     ],
     "env": {
         "SESSION_ID": {
-            "description": "QUEENELISA;;;==wcJJnNEp3QNhERIl0X4JXYsp0NSpkSzgTZIdmZyADNYVFT0BjY1VGT5tUYjo0ZDdkbWZEepwd=433425834329",
+            "description": "QUEENELISA;;;==waYRzM1ZWM0tGdjJVa15WMDNkaS9kawF1Xzc1UtYkZz92UMRFd1Rkerxmcjo1NRtWQ5oVSpwd=774374184329",
             "required": true
         },
         "MONGODB_URL": {
-            "description": "mongodb+srv://Faizan:faizantechz@cluster0.6bynwff.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+            "description": "mongodb+srv://<iemismail>:<ep0UxLdH4c5J5Zi5>@cluster0.yporr.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
             "required": true
         }
     },
